@@ -1,0 +1,11 @@
+name = Todo Style
+description = Extent content to be submitted and display in todo task
+package = "Input filters"
+dependencies[] = filter
+core = 6.x
+
+; Information added by drupal.org packaging script on 2008-09-24
+version = "6.x-1.0"
+core = "6.x"
+project = "todo_filter"
+
